@@ -38,16 +38,11 @@ amazon-clone/
 └── README.md
 ```
 
----
 
----
-
-## 📸 Screenshots
-
----
 
 ## 🎯 Learning Outcomes
 
 - Mastered HTML page structuring
 - Improved CSS layout skills (Flexbox / Grid)
 - Lear
+
